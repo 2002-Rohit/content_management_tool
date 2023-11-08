@@ -1,6 +1,6 @@
 body {
     font-family: Arial, sans-serif;
-    background-color: #000000;
+    background-color: rgb(28, 20, 47);
     background-blend-mode: multiply,multiply;
     overflow-x: hidden;
 }
@@ -74,11 +74,11 @@ button:hover{
 .card {
     border: 1px solid grey;
     border-radius: 8px;
-    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 2px 4px rgba(145, 85, 85, 0.1);
     padding: 20px;
     /* margin-bottom: 20px; */
     /*ackground-image: linear-gradient(to top, #e8a2a2 10%, #ec7215 80%);*/
-    background: linear-gradient(to top, lime, cyan);
+    background: linear-gradient(to top, rgb(157, 29, 86), rgb(3, 48, 48));
     background-size: cover;
     background-position: center;
     margin: auto;
